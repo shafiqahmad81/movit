@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+@font-face {
+  font-family: 'Basier Square';
+  src: url('../assets/font/BasierSquare-Medium.eot');
+  src: url('../assets/font/BasierSquare-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../assets/font/BasierSquare-Medium.woff2') format('woff2'),
+    url('../assets/font/BasierSquare-Medium.woff') format('woff'),
+    url('../assets/font/BasierSquare-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('../assets/font/FuturaPT-Medium.eot');
+  src: url('../assets/font/FuturaPT-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../assets/font/FuturaPT-Medium.woff2') format('woff2'),
+    url('../assets/font/FuturaPT-Medium.woff') format('woff'),
+    url('../assets/font/FuturaPT-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

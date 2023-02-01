@@ -659,6 +659,14 @@ video {
   bottom: 0px;
 }
 
+.bottom-20 {
+  bottom: 5rem;
+}
+
+.-right-20 {
+  right: -5rem;
+}
+
 .isolate {
   isolation: isolate;
 }

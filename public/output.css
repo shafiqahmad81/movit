@@ -659,12 +659,12 @@ video {
   bottom: 0px;
 }
 
-.bottom-20 {
-  bottom: 5rem;
+.-bottom-8 {
+  bottom: -2rem;
 }
 
-.-right-20 {
-  right: -5rem;
+.-right-48 {
+  right: -12rem;
 }
 
 .isolate {
@@ -2938,6 +2938,14 @@ video {
     .sm\:container {
       max-width: 1536px;
     }
+  }
+
+  .sm\:bottom-20 {
+    bottom: 5rem;
+  }
+
+  .sm\:-right-20 {
+    right: -5rem;
   }
 
   .sm\:justify-between {

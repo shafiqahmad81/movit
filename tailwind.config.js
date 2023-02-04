@@ -41,7 +41,7 @@ module.exports = {
         'gray': '#EEEEEE',
         'gray-bg-light': '#C9DCE7',
         'gray-bg': '#F8F9FF',
-        'white': 'rgb(255 255 255)',
+        'white-rgb': 'rgb(255 255 255)',
       },
       borderRadius: {
         '2.8xl': '22px',

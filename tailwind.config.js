@@ -63,6 +63,9 @@ module.exports = {
       screens: {
         'md-ex': '991px',
       },
+      dropShadow: {
+        'options-drop-shadow': 'blur(3.5px)',
+      },
     },
   },
   plugins: [],
